@@ -27,10 +27,3 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 #
-
-
-
-### 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=appyouz&count_private=true&show_icons=true&theme=github_dark) <br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appyouz&layout=compact&theme=github_dark&hide_border=true)
